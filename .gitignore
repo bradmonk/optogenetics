@@ -1,0 +1,12 @@
+.DS_Store
+*.pyc
+Rakefile
+
+*.aux
+*.log
+*.out
+
+*.mexmaci64
+PyDiffusion/Makefile
+
+*.m~  # temporary MATLAB files

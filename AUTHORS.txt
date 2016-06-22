@@ -1,0 +1,9 @@
+Contributors
+------------
+
+ * Brad Monk <brad.monk@gmail.com>
+ * Sage Aronson <sage.r.aronson@gmail.com>
+
+..
+    Generate above list using:
+    git log | grep "^Author:" | sort | uniq | sed s/Author:\ //
