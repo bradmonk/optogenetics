@@ -1,7 +1,5 @@
 # optogenetics
 
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.19265.svg)](http://dx.doi.org/10.5281/zenodo.19265)
-
 ## Project Summary
 
 This repo contains methods for optogenetic experiments aimed toward generating rewarding and aversive stimulation. (languages: MATLAB, Octave)
